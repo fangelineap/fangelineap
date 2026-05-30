@@ -61,7 +61,7 @@ Currently, I work on applications ranging from web platforms and mobile apps to 
     <img src="https://img.shields.io/badge/LinkedIn-344E86?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:fangelineap@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fangeline.palgunadi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
